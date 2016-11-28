@@ -6,3 +6,4 @@ git checkout -b
 git checkout
 git branch
 git tag 0.1
+git tag 0.2
